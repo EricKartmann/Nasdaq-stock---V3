@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  nasdaq-app:
+    build: .
+    ports:
+      - "8501:8501"
+    restart: always
+    volumes:
+      - .:/app
+    environment:
+      - TZ=America/New_York  # Zona horaria para el mercado de valores 
