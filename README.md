@@ -1,5 +1,13 @@
 # NASDAQ Stock Analysis App
 
+Nasdaq stock -V3 : se centra en mejorar las recomendaciones de acciones profundizando en la estrategia con el indicador avanzado Nadaraya-Watson Envelope. elimina también el codgio duplicado y funciona correctamente. Se considera muy útil para el seguimiento y análisis del grupo de acciones elegidas.
+
+Incluye un documento llamado stock_analyzer que se puede utilizar para aplicar este análisis y estrategia de recomendaciones sobre otro programa o una base de datos
+
+
+
+
+
 Esta aplicación proporciona análisis en tiempo real de las 7 principales empresas del NASDAQ, incluyendo predicciones y recomendaciones de trading basadas en análisis técnico.
 
 ## Características
